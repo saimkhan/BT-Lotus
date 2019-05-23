@@ -36,7 +36,7 @@ End Sub
 
 '++LotusScript Development Environment:2:2:Initialize:1:10
 Sub Initialize
-	msgbox "111"
+	msgbox "111-222"
 End Sub<break/></text></item>
 <item name='$DBScript_O' summary='false' sign='true'>
 <rawitemdata type='500'>
